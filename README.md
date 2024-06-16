@@ -1,0 +1,1 @@
+A simple python script that copies the key analyesd by serato to the comment of a song. This is used for writing into xml files for streaming services as these are not written by other external programms.
