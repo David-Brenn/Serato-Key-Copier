@@ -131,9 +131,4 @@ else:
     print("Invalid input. Defaulting to Camelot format.")
     CAMELOT_FORMAT = True
 
-
-# Path to your XML file
-xml_file_path = '/Users/davidbrenn/Music/_Serato_/Metadata/SoundCloud/'
-
 process_folder(folder_path)
-
